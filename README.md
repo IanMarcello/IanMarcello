@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IanMarcello
 - 👀 I’m interested in full stack development
-- ✌ Currently working on towards a full stack web dev
-- 🌱 I’m currently learning the Laravel framework
+- ✌ I'm currently working on towards a full stack web dev
+- 🌱 At the moment, I am still learning the Laravel framework
 - 📫 How to reach me: ianjada17@gmail.com
 
 <!---
