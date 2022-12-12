@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @IanMarcello
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning the Laravel framework
+- 📫 How to reach me: ianjada17@gmail.com
 
 <!---
 IanMarcello/IanMarcello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
