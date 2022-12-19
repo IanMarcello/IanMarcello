@@ -15,6 +15,3 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanMarcello&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IanMarcello&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
